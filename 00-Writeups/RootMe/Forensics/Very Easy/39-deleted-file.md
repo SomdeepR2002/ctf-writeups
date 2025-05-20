@@ -26,14 +26,14 @@ Extracted file: `usb.image`
 ```bash 
 file usb.image          
 ```
-![[Pasted image 20250521005247.png]]
+![file command output](img1.png)
 
 ### 🔸 Step 2: Read File Contents
 
 ```bash
 cat usb.image
 ```
-![[Pasted image 20250521005351.png]]
+![cat command output](img2.png)]
 
 ### 🔸 Step 3: Identify Flag
 

@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "00-Writeups/RootMe/Forensics/Very Easy/39-deleted-file.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "39-deleted-file"
             }
           }
         ]
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "00-Writeups/RootMe/Forensics/Very Easy/39-deleted-file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for 39-deleted-file"
             }
           },
           {
@@ -131,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "00-Writeups/RootMe/Forensics/Very Easy/39-deleted-file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from 39-deleted-file"
             }
           },
           {
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "00-Writeups/RootMe/Forensics/Very Easy/39-deleted-file.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of 39-deleted-file"
             }
           }
         ]
@@ -186,15 +186,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e31183caccfcfe35",
+  "active": "2dbe398b595e125c",
   "lastOpenFiles": [
-    "README.md",
+    "00-Writeups/RootMe/Forensics/Very Easy/attachments/img3.png",
     "00-Writeups/RootMe/Forensics/Very Easy/39-deleted-file.md",
-    "00-Writeups/RootMe/Forensics/Very Easy/attachments/Pasted image 20250521010025.png",
-    "00-Writeups/RootMe/Forensics/Very Easy/attachments/Pasted image 20250521005351.png",
-    "00-Writeups/RootMe/Forensics/Very Easy/attachments/Pasted image 20250521005247.png",
-    "00-Writeups/RootMe/Forensics/Very Easy/attachments",
+    "00-Writeups/RootMe/Forensics/Very Easy/attachments/img2.png",
+    "00-Writeups/RootMe/Forensics/Very Easy/attachments/img1.png",
+    "Pasted.md",
     "Welcome.md",
+    "README.md",
+    "00-Writeups/RootMe/Forensics/Very Easy/attachments",
     "00-Writeups/RootMe/Forensics/Very Easy",
     "00-Writeups/RootMe/Forensics/Deleted file.md",
     "Untitled.md",
