@@ -26,14 +26,14 @@ Extracted file: `usb.image`
 ```bash 
 file usb.image          
 ```
-![file command output](img1.png)
+![file command output](./attachments/img1.png)
 
 ### 🔸 Step 2: Read File Contents
 
 ```bash
 cat usb.image
 ```
-![cat command output](img2.png)]
+![cat command output](./attachments/img2.png)
 
 ### 🔸 Step 3: Identify Flag
 
